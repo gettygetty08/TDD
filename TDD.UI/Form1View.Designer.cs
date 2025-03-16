@@ -1,6 +1,6 @@
 ﻿namespace TDD.UI
 {
-    partial class Form1
+    partial class Form1View
     {
         /// <summary>
         /// 必要なデザイナー変数です。
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.CalculationButton = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label_operator = new System.Windows.Forms.Label();
@@ -36,14 +36,15 @@
             this.label_result = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // button1
+            // CalculationButton
             // 
-            this.button1.Location = new System.Drawing.Point(72, 112);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(112, 31);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.CalculationButton.Location = new System.Drawing.Point(72, 112);
+            this.CalculationButton.Name = "CalculationButton";
+            this.CalculationButton.Size = new System.Drawing.Size(112, 31);
+            this.CalculationButton.TabIndex = 0;
+            this.CalculationButton.Text = "計算";
+            this.CalculationButton.UseVisualStyleBackColor = true;
+            this.CalculationButton.Click += new System.EventHandler(this.CalculationButton_Click);
             // 
             // textBox1
             // 
@@ -96,7 +97,7 @@
             this.Controls.Add(this.label_operator);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.CalculationButton);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -106,7 +107,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button CalculationButton;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label_operator;
