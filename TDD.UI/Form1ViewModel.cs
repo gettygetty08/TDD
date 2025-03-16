@@ -9,12 +9,13 @@ namespace TDD.UI
 {
     public class Form1ViewModel : INotifyPropertyChanged
     {
-        //private System.Windows.Forms.Button CalculationButton;
-        //private System.Windows.Forms.TextBox textBox1;
-        //private System.Windows.Forms.TextBox textBox2;
-        //private System.Windows.Forms.Label label_operator;
-        //private System.Windows.Forms.Label label2;
-        //private System.Windows.Forms.Label label_result;
+
+        private IDB _db;
+
+        public Form1ViewModel(IDB db)
+        {
+            _db = db;
+        }
 
         private string _aTextBoxText = string.Empty;
         public string ATextBoxText
@@ -75,7 +76,9 @@ namespace TDD.UI
             int a = Convert.ToInt32(ATextBoxText);
             int b = Convert.ToInt32(BTextBoxText);
 
-            ResultLabelText = Caluculation.Sum(a, b).ToString();
+
+            int dbValue = _db.GetDBValue();
+            ResultLabelText = (Caluculation.Sum(a, b)+dbValue).ToString();
 
         }
     }
