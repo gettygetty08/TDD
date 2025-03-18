@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\getty\\source\\repos\\TDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|c:\\users\\getty\\source\\repos\\tdd\\tdd.ui\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E2C251-7DAE-40CD-B3B3-A89AA64C57BC}|TDDtest.Tests\\TDDtest.Tests.csproj|c:\\users\\getty\\source\\repos\\tdd\\tddtest.tests\\form1viewmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E2C251-7DAE-40CD-B3B3-A89AA64C57BC}|TDDtest.Tests\\TDDtest.Tests.csproj|solutionrelative:tddtest.tests\\form1viewmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tdd.ui\\form1viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\form1viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tdd.ui\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E2C251-7DAE-40CD-B3B3-A89AA64C57BC}|TDDtest.Tests\\TDDtest.Tests.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tddtest.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E2C251-7DAE-40CD-B3B3-A89AA64C57BC}|TDDtest.Tests\\TDDtest.Tests.csproj|solutionrelative:tddtest.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tdd.ui\\form1view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\form1view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0B837C-4681-4C40-9D4F-340457D552D1}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\getty\\source\\repos\\TDD\\unittestproject1\\chainingassertion.mstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0B837C-4681-4C40-9D4F-340457D552D1}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\chainingassertion.mstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0B837C-4681-4C40-9D4F-340457D552D1}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\getty\\source\\repos\\TDD\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0B837C-4681-4C40-9D4F-340457D552D1}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCD9317-09BC-4157-87C1-3306A8829FE9}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\getty\\source\\repos\\TDD\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCD9317-09BC-4157-87C1-3306A8829FE9}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCD9317-09BC-4157-87C1-3306A8829FE9}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\getty\\source\\repos\\TDD\\classlibrary1\\inputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCD9317-09BC-4157-87C1-3306A8829FE9}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\inputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tdd.ui\\form1view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\form1view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tdd.ui\\form1view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\form1view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tdd.ui\\caluculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\caluculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Product.cs",
+              "RelativeDocumentMoniker": "TDD.UI\\Product.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Product.cs",
+              "RelativeToolTip": "TDD.UI\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:04:24.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChainingAssertion.MSTest.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\UnitTestProject1\\ChainingAssertion.MSTest.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\ChainingAssertion.MSTest.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\UnitTestProject1\\ChainingAssertion.MSTest.cs",
+              "RelativeToolTip": "UnitTestProject1\\ChainingAssertion.MSTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:03:27.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:02:24.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:01:48.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\DB.cs",
+              "RelativeDocumentMoniker": "TDD.UI\\DB.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\DB.cs",
+              "RelativeToolTip": "TDD.UI\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:15:56.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1ViewModelTest.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDDtest.Tests\\Form1ViewModelTest.cs",
+              "RelativeDocumentMoniker": "TDDtest.Tests\\Form1ViewModelTest.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDDtest.Tests\\Form1ViewModelTest.cs",
+              "RelativeToolTip": "TDDtest.Tests\\Form1ViewModelTest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:43:01.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1View.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1View.Designer.cs",
+              "RelativeDocumentMoniker": "TDD.UI\\Form1View.Designer.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1View.Designer.cs",
+              "RelativeToolTip": "TDD.UI\\Form1View.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:39:29.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1ViewModel.cs",
+              "RelativeDocumentMoniker": "TDD.UI\\Form1ViewModel.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1ViewModel.cs",
+              "RelativeToolTip": "TDD.UI\\Form1ViewModel.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAiwGMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:38:53.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDDtest.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TDDtest.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDDtest.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TDDtest.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:52:23.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputException.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\ClassLibrary1\\InputException.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\InputException.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\ClassLibrary1\\InputException.cs",
+              "RelativeToolTip": "ClassLibrary1\\InputException.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:05:09.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1View.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1View.cs",
+              "RelativeDocumentMoniker": "TDD.UI\\Form1View.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1View.cs",
+              "RelativeToolTip": "TDD.UI\\Form1View.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-16T02:20:42.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Caluculation.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Caluculation.cs",
+              "RelativeDocumentMoniker": "TDD.UI\\Caluculation.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Caluculation.cs",
+              "RelativeToolTip": "TDD.UI\\Caluculation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:53:01.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1View.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1View.cs",
+              "RelativeDocumentMoniker": "TDD.UI\\Form1View.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1View.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "TDD.UI\\Form1View.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-16T01:45:19.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

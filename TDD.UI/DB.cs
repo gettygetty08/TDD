@@ -14,5 +14,10 @@ namespace TDD.UI
             return 200;
         }
 
+        public Product GetProduct()
+        {
+            return new Product(1, "p1");
+        }
+
     }
 }

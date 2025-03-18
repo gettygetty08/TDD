@@ -81,5 +81,40 @@ namespace TDD.UI
             ResultLabelText = (Caluculation.Sum(a, b)+dbValue).ToString();
 
         }
+
+        private string _productIdTextBoxText = string.Empty;
+        public string ProductIdTextBoxText
+        {
+            get { return _productIdTextBoxText; }
+            set
+            {
+                if (_productIdTextBoxText == value) return;
+
+                _productIdTextBoxText = value;
+                OnPropertyChanged("ProductIdTextBoxText");
+            }
+
+        }
+
+        private string _productNameTextBoxText = string.Empty;
+        public string ProductNameTextBoxText
+        {
+            get { return _productNameTextBoxText; }
+            set
+            {
+                if (_productNameTextBoxText == value) return;
+
+                _productNameTextBoxText = value;
+                OnPropertyChanged("ProductNameTextBoxText");
+            }
+
+        }
+
+        public void ProductCommand()
+        {
+            var product = _db.GetProduct();
+            ProductIdTextBoxText = product.ProductId.ToString();
+            ProductNameTextBoxText = product.ProductName;
+        }
     }
 }

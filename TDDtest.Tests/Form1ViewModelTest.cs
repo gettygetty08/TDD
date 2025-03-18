@@ -21,15 +21,28 @@ namespace TDDtest.Tests
             viewModel.ATextBoxText = "2";
             viewModel.BTextBoxText = "5";
             viewModel.CalculationAction();
-            Assert.AreEqual("107",viewModel.ResultLabelText);
+            Assert.AreEqual("107", viewModel.ResultLabelText);
         }
+
+        [TestMethod]
+        public void シナリオ2()
+        {
+            var mock = new Mock<IDB>();
+            var p = new Product(10, "p10");
+            mock.Setup(x => x.GetProduct()).Returns(p);
+            var viewModel = new Form1ViewModel(mock.Object);
+            viewModel.ProductCommand();
+            Assert.AreEqual("10", viewModel.ProductIdTextBoxText);
+            Assert.AreEqual("p10", viewModel.ProductNameTextBoxText);
+        }
+
+        //internal class DBMock : IDB
+        //{
+        //    public int GetDBValue()
+        //    {
+        //        return 100;
+        //    }
+        //}
     }
 
-    //internal class DBMock : IDB
-    //{
-    //    public int GetDBValue()
-    //    {
-    //        return 100;
-    //    }
-    //}
 }

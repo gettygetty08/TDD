@@ -10,7 +10,7 @@ namespace ClassLibrary1
     {
         public InputException(string message):base(message)
         {
-                
+
         }
     }
 }
