@@ -34,6 +34,18 @@ namespace TDDtest.Tests
             viewModel.ProductCommand();
             Assert.AreEqual("10", viewModel.ProductIdTextBoxText);
             Assert.AreEqual("p10", viewModel.ProductNameTextBoxText);
+
+            viewModel.ProductNameTextBoxText = "pro10";
+
+            mock.Setup(x => x.SaveProduct(It.IsAny<Product>())).
+                Callback<Product>(saveValue =>
+                {
+                    Assert.AreEqual(10, saveValue.ProductId);
+                    Assert.AreEqual("pro10", saveValue.ProductName);
+                });
+
+            viewModel.Save();
+            mock.VerifyAll();
         }
 
         //internal class DBMock : IDB

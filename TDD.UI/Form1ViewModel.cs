@@ -116,5 +116,10 @@ namespace TDD.UI
             ProductIdTextBoxText = product.ProductId.ToString();
             ProductNameTextBoxText = product.ProductName;
         }
+
+        public void Save()
+        {
+            _db.SaveProduct(new Product(Convert.ToInt32(ProductIdTextBoxText), ProductNameTextBoxText));
+        }
     }
 }

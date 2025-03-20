@@ -19,5 +19,9 @@ namespace TDD.UI
             return new Product(1, "p1");
         }
 
+        public void SaveProduct(Product product)
+        {
+            //実際はデータベースに接続
+        }
     }
 }

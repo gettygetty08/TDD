@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\getty\\source\\repos\\TDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71E2C251-7DAE-40CD-B3B3-A89AA64C57BC}|TDDtest.Tests\\TDDtest.Tests.csproj|c:\\users\\getty\\source\\repos\\tdd\\tddtest.tests\\form1viewmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71E2C251-7DAE-40CD-B3B3-A89AA64C57BC}|TDDtest.Tests\\TDDtest.Tests.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tddtest.tests\\form1viewmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71E2C251-7DAE-40CD-B3B3-A89AA64C57BC}|TDDtest.Tests\\TDDtest.Tests.csproj|solutionrelative:tddtest.tests\\form1viewmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tdd.ui\\form1viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\form1viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tdd.ui\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tdd.ui\\form1viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\form1viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|c:\\users\\getty\\source\\repos\\tdd\\tdd.ui\\idb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\idb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|c:\\users\\getty\\source\\repos\\tdd\\tdd.ui\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435ED81C-6640-4BDF-9BB0-C972BB069D0C}|TDD.UI\\TDD.UI.csproj|solutionrelative:tdd.ui\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71E2C251-7DAE-40CD-B3B3-A89AA64C57BC}|TDDtest.Tests\\TDDtest.Tests.csproj|C:\\Users\\getty\\source\\repos\\TDD\\tddtest.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,23 +66,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChainingAssertion.MSTest.cs",
-              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\UnitTestProject1\\ChainingAssertion.MSTest.cs",
-              "RelativeDocumentMoniker": "UnitTestProject1\\ChainingAssertion.MSTest.cs",
-              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\UnitTestProject1\\ChainingAssertion.MSTest.cs",
-              "RelativeToolTip": "UnitTestProject1\\ChainingAssertion.MSTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IDB.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\IDB.cs",
+              "RelativeDocumentMoniker": "TDD.UI\\IDB.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\IDB.cs",
+              "RelativeToolTip": "TDD.UI\\IDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:03:27.374Z"
+              "WhenOpened": "2025-03-20T03:33:15.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Product.cs",
+              "RelativeDocumentMoniker": "TDD.UI\\Product.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Product.cs",
+              "RelativeToolTip": "TDD.UI\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:04:24.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\UnitTestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
@@ -86,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\ClassLibrary1\\Class1.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
@@ -98,15 +120,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DB.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\DB.cs",
               "RelativeDocumentMoniker": "TDD.UI\\DB.cs",
               "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\DB.cs",
               "RelativeToolTip": "TDD.UI\\DB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T06:15:56.597Z"
+              "WhenOpened": "2025-03-16T06:15:56.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,14 +139,14 @@
               "RelativeDocumentMoniker": "TDDtest.Tests\\Form1ViewModelTest.cs",
               "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDDtest.Tests\\Form1ViewModelTest.cs",
               "RelativeToolTip": "TDDtest.Tests\\Form1ViewModelTest.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwC8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvy8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T02:43:01.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form1View.Designer.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1View.Designer.cs",
               "RelativeDocumentMoniker": "TDD.UI\\Form1View.Designer.cs",
@@ -135,19 +158,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1ViewModel.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1ViewModel.cs",
               "RelativeDocumentMoniker": "TDD.UI\\Form1ViewModel.cs",
               "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1ViewModel.cs",
               "RelativeToolTip": "TDD.UI\\Form1ViewModel.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwBAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAUwHoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T02:38:53.67Z"
+              "WhenOpened": "2025-03-16T02:38:53.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "ChainingAssertion.MSTest.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\UnitTestProject1\\ChainingAssertion.MSTest.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\ChainingAssertion.MSTest.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\TDD\\UnitTestProject1\\ChainingAssertion.MSTest.cs",
+              "RelativeToolTip": "UnitTestProject1\\ChainingAssertion.MSTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:03:27.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDDtest.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TDDtest.Tests\\UnitTest1.cs",
@@ -159,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "InputException.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\ClassLibrary1\\InputException.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\InputException.cs",
@@ -171,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Form1View.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1View.cs",
               "RelativeDocumentMoniker": "TDD.UI\\Form1View.cs",
@@ -183,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Caluculation.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Caluculation.cs",
               "RelativeDocumentMoniker": "TDD.UI\\Caluculation.cs",
@@ -195,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Form1View.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\TDD\\TDD.UI\\Form1View.cs",
               "RelativeDocumentMoniker": "TDD.UI\\Form1View.cs",
